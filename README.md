@@ -120,3 +120,5 @@ In a hypothetical situation where all members contributed an objectively equal a
 
 ### References
 The principles behind ƒractally are outlined in the book, “*More Equal Animals - The subtle art of true democracy*”. The core idea is to define a process to measure the wisdom of the crowds. 
+
+Also, several extracts to this document were literally taken from the fractally white paper authored by Daniel Larimer, James Mart and the Fractally team. I didn't bother to take the time to modify those parts because they were already carefully written, so no extra work was needed; Also, in his book "_More Equal Animals_", Daniel Larimer himself opposes the excessive focus on copyrights as a damaging influence for the common good. 
