@@ -1,4 +1,4 @@
-# On why Cardano's governance design is far from completed
+# On why Cardano's governance design is still an open challenge
 
 The Cardano ecosystem is at the forefront of decentralized governance. However, as naturally occurs in every evolutionary process, every solution creates the conditions for solving a new set of problems. As such, current implementation of Cardano governance (CIP 1694\) has brought to light some common Representative Democracy flaws.
 
